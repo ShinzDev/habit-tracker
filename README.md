@@ -1,8 +1,7 @@
 
 ## habit-tracker
-
-clone project from GitHub
-cd into project folder 
+## clone project from GitHub
+## cd into project folder 
 ```bash
 npm run dev
 # or
